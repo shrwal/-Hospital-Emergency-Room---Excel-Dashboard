@@ -19,7 +19,7 @@ This project is ideal for showcasing Excel data visualization and analytical ski
   - Fully interactive dashboard
 
 - [`Hospital Emergency Room Dashboard.png`](https://github.com/shrwal/-Hospital-Emergency-Room---Excel-Dashboard/blob/c3edb0a18497d5e5c05fa043282facb95f9c7055/Excel%20Project%201.png)
-   Screenshot of the final Excel dashboard for quick reference.
+ Screenshot of the final Excel dashboard for quick reference.
  
 ---
 
