@@ -9,18 +9,18 @@ This project is ideal for showcasing Excel data visualization and analytical ski
 
 ## 📁 Files Included
 
-- `Hospital Emergency Room Data.csv`  
+- [`Hospital Emergency Room Data.csv`](https://1drv.ms/x/c/69f2e397c7ab4951/EQ10qQzaT25EsdBMfaY_vxsB0rIZz5PMKGZNrACJmMJuwQ?e=gEFlRv)  
   Raw dataset containing patient information, admission status, gender, wait time, and department details.
 
-- `Hospital E Room Analysis 2.xlsx`  
+- [`Hospital E Room Analysis 2.xlsx`](https://1drv.ms/x/c/69f2e397c7ab4951/Ed-S-9R_JDpNq00iXtoXi1QBBp0Fdsg9W6e3MCoDnWg8kw?e=xzK6Oc)  
   Excel workbook with:
   - Cleaned and structured data
   - Multiple pivot tables
   - Fully interactive dashboard
 
-[Hospital Emergency Room Dashboard.png](https://github.com/shrwal/-Hospital-Emergency-Room---Excel-Dashboard/blob/c3edb0a18497d5e5c05fa043282facb95f9c7055/Excel%20Project%201.png)  
-  Screenshot of the final Excel dashboard for quick reference.
-
+- [`Hospital Emergency Room Dashboard.png`](https://github.com/shrwal/-Hospital-Emergency-Room---Excel-Dashboard/blob/c3edb0a18497d5e5c05fa043282facb95f9c7055/Excel%20Project%201.png)
+   Screenshot of the final Excel dashboard for quick reference.
+ 
 ---
 
 ## 📊 Dashboard Features
