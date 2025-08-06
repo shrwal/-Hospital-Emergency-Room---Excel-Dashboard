@@ -78,4 +78,4 @@ This project is ideal for showcasing Excel data visualization and analytical ski
 
 ### 🔗 Screenshot Preview
 
-![Dashboard Preview]([./Hospital%20Emergency%20Room%20Dashboard.png](https://github.com/shrwal/-Hospital-Emergency-Room---Excel-Dashboard/blob/main/Excel%20Project%201.png))
+![Dashboard Preview](Excel Project 1.png)
